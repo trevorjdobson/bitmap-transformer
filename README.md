@@ -1,7 +1,7 @@
 # bitmap-transformer
 Java 401 Bitmap Transformer
 
-[Link to Code](https://github.com/trevorjdobson/bitmap-transformer/blob/master/src/main/java/bitmap/transformer/App.java)
+[Link to Code](https://github.com/trevorjdobson/bitmap-transformer/blob/master/src/main/java/bitmap/transformer)
 
 [Link to Tests](https://github.com/trevorjdobson/bitmap-transformer/blob/master/src/test/java/bitmap/transformer/BitmapTransformerTest.java)
 
