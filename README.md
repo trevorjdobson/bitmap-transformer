@@ -3,7 +3,7 @@ Java 401 Bitmap Transformer
 
 [Link to Code](https://github.com/trevorjdobson/bitmap-transformer/blob/master/src/main/java/bitmap/transformer/App.java)
 
-[Link to Tests](https://github.com/trevorjdobson/bitmap-transformer/blob/master/src/test/java/bitmap/transformer/AppTest.java)
+[Link to Tests](https://github.com/trevorjdobson/bitmap-transformer/blob/master/src/test/java/bitmap/transformer/BitmapTransformerTest.java)
 
 ## How To Use This App
 * First clone this repo to your local machine
