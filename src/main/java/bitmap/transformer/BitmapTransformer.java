@@ -33,7 +33,7 @@ public class BitmapTransformer {
         ImageIO.write(bmpImage, "bmp", outfile);
 
 
-        return "Succesfully created in directory: " + outputPath;
+        return "Grey Success";
     }
 
 
@@ -76,7 +76,7 @@ public class BitmapTransformer {
         ImageIO.write(bmpImage, "bmp", outfile);
 
 
-        return "Succesfully created in directory: " + outputPath;
+        return "Flip Success";
 
 
     }
@@ -98,7 +98,7 @@ public class BitmapTransformer {
         File outfile = new File(outputPath);
         ImageIO.write(resized, "png", outfile);
 
-        return "success";
+        return "Resize Success";
 
     }
 }
